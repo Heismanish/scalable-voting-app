@@ -34,5 +34,5 @@ tsc
 nodemon dist/index.js
 ```
 ## Perview:
-![Homepage](./homepage)
-![VotingPage](./voting)
+![Homepage](./homepage.png)
+![VotingPage](./voting.png)
