@@ -33,6 +33,10 @@ npm install
 tsc
 nodemon dist/index.js
 ```
+
 ## Perview:
 ![Homepage](./homepage.png)
 ![VotingPage](./voting.png)
+
+## Resources:
+  To render votes : [WorldCloud](https://airbnb.io/visx/wordcloud) from airbnb
